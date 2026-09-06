@@ -447,7 +447,7 @@
                 [
                     1203,
                     "Fast Recon Vehicle",
-                    "快速侦查载具",
+                    "炮手快速侦查载具",
                     "fast_recon_vehicle",
                     "[3,2,4,2,4,2,1]",
                     2402
@@ -523,6 +523,14 @@
                     "eagle_500kg_bomb",
                     "[1,4,2,2,2]",
                     1101
+                ],
+                [
+                    2008,
+                    "Eagle Gas Airstrike",
+                    "“飞鹰”毒气空袭",
+                    "eagle_gas_airstrike",
+                    "[1,4,3,4]",
+                    1108
                 ],
                 [
                     2101,
@@ -935,7 +943,7 @@
                 [
                     4121,
                     "Breakthrough Exosuit",
-                    "突破",
+                    "“突破”外骨骼装甲",
                     "breakthrough_exosuit",
                     "[3,2,4,3,4,2,1]",
                     2406
@@ -943,7 +951,7 @@
                 [
                     4122,
                     "Lumberer Exosuit",
-                    "伐木者",
+                    "“伐木者”外骨骼装甲",
                     "lumberer_exosuit",
                     "[3,2,4,1,4,3,1]",
                     2407
